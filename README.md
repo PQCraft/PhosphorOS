@@ -5,7 +5,7 @@ An OS I wrote in C <br>
 <!----><br>
 **NOTE:** Development is now sort of suspended until I can find out how to read from at least the CD and floppy.
 <!----><br>
-**NOTE:** Development is now indefinitely suspended as I have switched to and Arch-based Linux distro and PhOS refuses to compile unless `-fno-stack-protector` is added to the build options, but when I add this option the OS will refuse to boot with an 'Illegal Instruction' fault.
+**NOTE:** Development is now indefinitely suspended as I have switched to an Arch-based Linux distro and PhOS refuses to compile unless `-fno-stack-protector` is added to the build options, but when I add this option the OS will refuse to boot with an 'Illegal Instruction' fault.
 
 ---
 ### Screenshots
